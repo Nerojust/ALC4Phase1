@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="top"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".ActivityOne"
+    tools:ignore="Overdraw">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/size_50dp"
+        android:layout_marginBottom="@dimen/size_70dp"
+        android:fontFamily="monospace"
+        android:gravity="center"
+        android:text="@string/welcome_to_alc_4_0"
+        android:textColor="#000000"
+        android:textSize="@dimen/textsize_35sp"
+        tools:targetApi="jelly_bean" />
+
+    <Button
+        android:layout_width="@dimen/size_150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="monospace"
+        android:gravity="center"
+        android:id="@+id/about_alc"
+        android:background="@drawable/button_background"
+        android:text="@string/about_alc"
+        android:textSize="@dimen/textsize_20sp"
+        tools:targetApi="jelly_bean" />
+
+    <Button
+        android:layout_width="@dimen/size_150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/size_40dp"
+        android:id="@+id/myProfile"
+        android:gravity="center"
+        android:fontFamily="monospace"
+        android:text="@string/my_profile"
+        android:background="@drawable/button_background"
+        android:textSize="@dimen/textsize_20sp"
+        tools:targetApi="jelly_bean" />
+
+</LinearLayout>

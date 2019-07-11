@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="my_name">Nyerhovwo Adjekughene</string>
+    <string name="android">Android</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="nerojust7_gmail_com">Nerojust7@gmail.com</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="nerojust">Nerojust</string>
+    <string name="slack_username">Slack Username</string>
+    <string name="_08069809921">08069809921</string>
+    <string name="email">Email</string>
+    <string name="country">Country</string>
+    <string name="track">Track</string>
+    <string name="andela_website">https://andela.com/alc/</string>
+    <string name="loading">Loading. Please wait…</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">My profile</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="alc_logo">Alc logo</string>
+</resources>
