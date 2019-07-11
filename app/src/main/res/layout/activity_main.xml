@@ -4,8 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_gravity="center"
-    android:gravity="top"
     android:background="@color/white"
+    android:gravity="top"
     android:orientation="vertical"
     tools:context=".ActivityOne"
     tools:ignore="Overdraw">
@@ -16,7 +16,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="@dimen/size_50dp"
         android:layout_marginBottom="@dimen/size_70dp"
-        android:fontFamily="monospace"
+        android:fontFamily="sans-serif-medium"
         android:gravity="center"
         android:text="@string/welcome_to_alc_4_0"
         android:textColor="#000000"
@@ -24,27 +24,29 @@
         tools:targetApi="jelly_bean" />
 
     <Button
+        android:id="@+id/about_alc"
         android:layout_width="@dimen/size_150dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:fontFamily="monospace"
-        android:gravity="center"
-        android:id="@+id/about_alc"
         android:background="@drawable/button_background"
+        android:fontFamily="sans-serif-medium"
+        android:gravity="center"
         android:text="@string/about_alc"
+        android:textColor="@color/white"
         android:textSize="@dimen/textsize_20sp"
         tools:targetApi="jelly_bean" />
 
     <Button
+        android:id="@+id/myProfile"
         android:layout_width="@dimen/size_150dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="@dimen/size_40dp"
-        android:id="@+id/myProfile"
-        android:gravity="center"
-        android:fontFamily="monospace"
-        android:text="@string/my_profile"
         android:background="@drawable/button_background"
+        android:fontFamily="sans-serif-medium"
+        android:gravity="center"
+        android:text="@string/my_profile"
+        android:textColor="@color/white"
         android:textSize="@dimen/textsize_20sp"
         tools:targetApi="jelly_bean" />
 

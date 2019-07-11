@@ -52,35 +52,35 @@
                 android:layout_height="wrap_content"
                 android:text="@string/track"
                 android:textColor="@color/black"
-                android:textSize="@dimen/text_size_18sp" />
+                android:textSize="@dimen/textsize_16sp" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/country"
                 android:textColor="@color/black"
-                android:textSize="@dimen/text_size_18sp" />
+                android:textSize="@dimen/textsize_16sp" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/email"
                 android:textColor="@color/black"
-                android:textSize="@dimen/text_size_18sp" />
+                android:textSize="@dimen/textsize_16sp" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/phone_number"
                 android:textColor="@color/black"
-                android:textSize="@dimen/text_size_18sp" />
+                android:textSize="@dimen/textsize_16sp" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/slack_username"
                 android:textColor="@color/black"
-                android:textSize="@dimen/text_size_18sp" />
+                android:textSize="@dimen/textsize_16sp" />
         </LinearLayout>
 
         <LinearLayout
@@ -96,31 +96,31 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/android"
-                android:textSize="@dimen/text_size_18sp" />
+                android:textSize="@dimen/textsize_16sp" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/nigeria"
-                android:textSize="@dimen/text_size_18sp" />
+                android:textSize="@dimen/textsize_16sp" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/nerojust7_gmail_com"
-                android:textSize="@dimen/text_size_18sp" />
+                android:textSize="@dimen/textsize_16sp" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/_08069809921"
-                android:textSize="@dimen/text_size_18sp" />
+                android:textSize="@dimen/textsize_16sp" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/nerojust"
-                android:textSize="@dimen/text_size_18sp" />
+                android:textSize="@dimen/textsize_16sp" />
         </LinearLayout>
     </LinearLayout>
 </LinearLayout>
